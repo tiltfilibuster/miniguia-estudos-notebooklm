@@ -128,3 +128,15 @@ Liste exemplos práticos.
 Crie perguntas para revisar este conteúdo.
 
 Transforme este conteúdo em flashcards.
+
+# 📸 Imagens
+
+## Fontes carregadas e conversa no NotebookLM
+![Fontes](Imagens/NotebookLM.png)
+
+## Resumo gerado
+![Resumo](Imagens/Resumo.png)
+
+## Mapa mental
+![mapa Mental](Imagens/mapa_mental.png)
+

@@ -36,8 +36,7 @@ Todas as fontes foram adicionadas ao NotebookLM para consulta e geração de res
 
 Resultado:
 
-Foi obtida uma explicação clara sobre o conceito e sua importância.
-
+Foi obtida uma explicação clara sobre o conceito, sua importância, elementos de um bom Prompt e técnicas essenciais para iniciantes, assim como dicas.
 ---
 
 ## Prompt 2
@@ -46,13 +45,15 @@ Foi obtida uma explicação clara sobre o conceito e sua importância.
 
 Resultado:
 
-A IA listou:
+Foi explicado uma série de técnicas e métodos para diminuir as chances de alucinações:
 
-- contexto
-- objetivo
-- formato esperado
-- exemplos
-- restrições
+- permissão para admitir ignorância
+- Ajuste de temperatura do modelo
+- inclusão de documentos e dados
+- solicitar verificação de dados
+- Utilizar formatos estruturados
+- Aplicação de cadeia de pensamento
+- técnica de consistência própria
 
 ---
 
@@ -69,8 +70,8 @@ Resumo organizado e fácil de revisar.
 # ⚠ Dificuldades Encontradas
 
 - Algumas respostas ficaram muito genéricas.
-- Foi necessário adicionar mais contexto ao prompt.
 - Prompts muito curtos geravam respostas superficiais.
+- Foi necessário adicionar várias fontes de níveis de conhecimento diferente para respostas satisfatórias.
 
 ---
 
@@ -119,7 +120,5 @@ Faça uma tabela comparando os conceitos.
 Liste exemplos práticos.
 
 Crie perguntas para revisar este conteúdo.
-
-Gere um mapa mental em texto.
 
 Transforme este conteúdo em flashcards.

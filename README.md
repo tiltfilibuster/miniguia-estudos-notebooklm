@@ -37,6 +37,7 @@ Todas as fontes foram adicionadas ao NotebookLM para consulta e geração de res
 Resultado:
 
 Foi obtida uma explicação clara sobre o conceito, sua importância, elementos de um bom Prompt e técnicas essenciais para iniciantes, assim como dicas.
+
 ---
 
 ## Prompt 2

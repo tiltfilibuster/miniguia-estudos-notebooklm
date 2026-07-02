@@ -23,6 +23,11 @@ O objetivo foi utilizar o NotebookLM para organizar materiais sobre Engenharia d
 2. https://platform.openai.com/docs/guides/prompt-engineering
 3. https://cloud.google.com/learn
 4. https://learn.microsoft.com/ai
+5. https://www.promptingguide.ai/techniques
+6. https://youtu.be/1VDcke66TRE
+7. https://omekas-test.sba.unipi.it/files/original/9473424cea8d562f876a4bca4bedd9e2336910af.pdf
+8. https://www.onlinebrandambassadors.com/stable/Google-Prompt-Engineering-Boonstra.pdf
+9. https://youtu.be/_ZvnD73m40o
 
 Todas as fontes foram adicionadas ao NotebookLM para consulta e geração de resumos.
 
